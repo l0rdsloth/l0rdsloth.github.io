@@ -1,0 +1,68 @@
+html {
+    background-color: lightblue;
+}
+
+/** INDEX.HTML**/
+h1 {
+    text-align: center;
+}
+
+img {
+    margin-left: 15%;
+    margin-right: auto;
+}
+
+.bioContainer {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.bio {
+    width:500px;
+    padding-right: 140px;
+    
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+.table {
+    padding-top: 10px;
+    padding-left:90px;
+}
+
+a {
+    color:darkgray;
+    text-decoration: none;
+}
+
+.favs {
+    display: flex;
+    
+}
+
+.item {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+/** END OF INDEX.HTML**/
+
+/** PREVCOURSE.HTML**/
+.homeLink {
+    text-align: center;
+}
+
+.courseContainer {
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cItem {
+    display: inline-block;
+    margin: 0 auto;
+}
+
